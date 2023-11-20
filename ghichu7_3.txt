@@ -1,0 +1,3 @@
+highest = array2[i];
+            highest_name += ", ";
+            highest_name += array1[i];
